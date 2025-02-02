@@ -1,0 +1,9 @@
+
+   
+  103  git config --global user.name KaustubhDurgade
+  104  git config --global user.email kaustubhdurgade1@gmail.com
+
+   95  git status
+   96  git add prize_website/
+   99  git commit -m "prize website test"
+  107  git push origin main
